@@ -1,0 +1,119 @@
+.projects {
+    padding-top: 60px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-right: 30px;
+ }
+ .projects h2 {
+     margin-left: 40px;
+     font-size: 25px;
+ }
+ .projects-content {
+     display: grid;
+     grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+     gap: 30px;
+     margin-top: 30px;
+ }
+ 
+ .project {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     align-items: flex-start;
+ }
+ 
+ .projects h2 {
+     font-size: 40px;
+ }
+ 
+ .project .project-name {
+     margin-left: 20px;
+ }
+ .project .info {
+     display: flex;
+     justify-content: center;
+     gap: 30px;
+     border-radius: 20px;
+     transition: 1s;
+     background-color: #fff;
+     padding: 20px 30px;
+ }
+ 
+ .project .info img {
+     flex-basis: 25%;
+     width: 40%;
+     height: 350px;
+     object-fit: cover;
+     border-radius: 20px;
+     align-items: center;
+     transition: 0.75s;
+ }
+ .project .info .pro-txt {
+     flex-basis: 50%;
+     margin-top: 30px;
+     font-size: 15px;
+     font-weight: 300;
+     line-height: 25px;
+ 
+ }
+ .project .info .pro-txt a {
+     text-decoration: none;
+     color: #4F9DF7;
+ }
+ 
+ @media(max-width:700px) {
+     .project {
+         width: 300px;
+         margin: auto;
+         
+     }
+     .project .info {
+         gap: 5px;
+     }
+     .projects h3 {
+         font-size: 22px;
+         margin-bottom: 30px;
+         margin-top: -8px;
+     }
+     
+     .project .info {
+         display: block;
+         gap: 10px;
+         border-radius: 20px;
+         transition: 1s;
+         background-color: #fff;
+         padding: 15px 15px;
+     }
+ 
+     .project .info img {
+         flex-basis: 10%;
+         width: 100%;
+         height: 200px;
+         object-fit: cover;
+         border-radius: 10px;
+         align-items: center;
+         transition: 0.75s;
+     }
+ 
+     .projects-content {
+         display: block;
+         justify-content: space-around;
+         gap: 50px;
+         margin-top: 30px;
+        
+     }
+ 
+     .projects {
+         padding-top: 60px;
+         padding-left: 30px;
+         display: block;
+         flex-direction: column;
+         justify-content: space-around;
+         padding-right: 30px;
+      }
+ 
+     
+ }
+ 
