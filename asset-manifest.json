@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio-React/static/css/main.e00b28db.css",
+    "main.js": "/MyPortfolio-React/static/js/main.f62e43f6.js",
+    "static/js/488.f30ea4ab.chunk.js": "/MyPortfolio-React/static/js/488.f30ea4ab.chunk.js",
+    "static/media/batman.jpg": "/MyPortfolio-React/static/media/batman.331d51d61df611268c78.jpg",
+    "static/media/clg-blog pic.jpg": "/MyPortfolio-React/static/media/clg-blog pic.78c1a245c72a95da7ef1.jpg",
+    "static/media/js-pic.jpg": "/MyPortfolio-React/static/media/js-pic.7f31c33a951bca8419b2.jpg",
+    "static/media/to-do-list-pic.jpg": "/MyPortfolio-React/static/media/to-do-list-pic.f82a0c97574ceb6f96c4.jpg",
+    "static/media/profile3.jpg": "/MyPortfolio-React/static/media/profile3.79a9adf57caa6037883f.jpg",
+    "static/media/project-pic1.jpg": "/MyPortfolio-React/static/media/project-pic1.a4931cec6120bff586c4.jpg",
+    "static/media/project-pic2.jpg": "/MyPortfolio-React/static/media/project-pic2.eebee8017986e2462e72.jpg",
+    "index.html": "/MyPortfolio-React/index.html",
+    "main.e00b28db.css.map": "/MyPortfolio-React/static/css/main.e00b28db.css.map",
+    "main.f62e43f6.js.map": "/MyPortfolio-React/static/js/main.f62e43f6.js.map",
+    "488.f30ea4ab.chunk.js.map": "/MyPortfolio-React/static/js/488.f30ea4ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e00b28db.css",
+    "static/js/main.f62e43f6.js"
+  ]
+}
